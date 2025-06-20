@@ -1,0 +1,7 @@
+:root {
+  --bg-glass: rgba(45, 45, 42, 0.5);
+  --hover-glass: rgba(19, 20, 20, 0.41);
+  --green-accent: #03dd70;
+  --font-mono: "Courier New", monospace;
+  --panel-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
